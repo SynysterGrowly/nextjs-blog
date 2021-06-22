@@ -1,0 +1,15 @@
+{
+  "siteMetadata": {
+    "title": "Mi blog con markdown",
+    "author": {
+      "name": "Juan Nahuat",
+      "summary": "Un blog en Next JS."
+    },
+    "description": "Un blog elaborado con Next y Tailwind",
+    "siteUrl": "",
+    "language": "es-Mx",
+    "social": {
+      "twitter": "SynysterGrowly"
+    }
+  }
+}

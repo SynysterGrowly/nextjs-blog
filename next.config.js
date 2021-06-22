@@ -1,3 +1,7 @@
+const optimizedImages = require("next-optimized-images");
+
+module.exports = optimizedImages;
+
 module.exports = {
-  reactStrictMode: true,
+  distDir: 'build',
 }
